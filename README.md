@@ -12,6 +12,9 @@ Collection of some audio/speech datasets
 - libriSpeech [[`https://www.openslr.org/12/`](https://www.openslr.org/12/)].
 - Genshin_Datasets [[`https://github.com/AI-Hobbyist/Genshin_Datasets`](https://github.com/AI-Hobbyist/Genshin_Datasets)].
 
+## others
+- https://huggingface.co/datasets/TTS-AGI/vocal-bursts-taxonomy-DACVAE
+
 
 ## TTS Frontend dataset
 - https://github.com/danielwei0214/Chinese-TTS-Dataset
