@@ -22,4 +22,4 @@ Collection of some audio/speech datasets
 
 ## Star History
 
-[[Star History Chart](https://api.star-history.com/svg?repos=taichuai/awesome-audio-speech-generation-corpus&type=Date)](https://star-history.com/#taichuai/awesome-audio-speech-generation-corpus&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=taichuai/awesome-audio-speech-generation-corpus&type=Date)](https://star-history.com/#taichuai/awesome-audio-speech-generation-corpus&Date)
