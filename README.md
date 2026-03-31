@@ -10,7 +10,7 @@ Collection of some audio/speech datasets
 - Emilia-Dataset [[`https://huggingface.co/datasets/amphion/Emilia-Dataset`](https://huggingface.co/datasets/amphion/Emilia-Dataset)].
 - Portuguese [[`https://github.com/Edresson/TTS-Portuguese-Corpus`](https://github.com/Edresson/TTS-Portuguese-Corpus)].
 - libriSpeech [[`https://www.openslr.org/12/`](https://www.openslr.org/12/)].
-- libriSpeech [[`https://github.com/AI-Hobbyist/Genshin_Datasets`](https://github.com/AI-Hobbyist/Genshin_Datasets)].
+- Genshin_Datasets [[`https://github.com/AI-Hobbyist/Genshin_Datasets`](https://github.com/AI-Hobbyist/Genshin_Datasets)].
 
 
 ## TTS Frontend dataset
