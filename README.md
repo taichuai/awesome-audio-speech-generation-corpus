@@ -11,7 +11,8 @@ Collection of some audio/speech datasets
 - Portuguese [[`https://github.com/Edresson/TTS-Portuguese-Corpus`](https://github.com/Edresson/TTS-Portuguese-Corpus)].
 - libriSpeech [[`https://www.openslr.org/12/`](https://www.openslr.org/12/)].
 - Genshin_Datasets [[`https://github.com/AI-Hobbyist/Genshin_Datasets`](https://github.com/AI-Hobbyist/Genshin_Datasets)].
-- Mozilla datasets [[`https://commonvoice.mozilla.org/zh-CN`](https://commonvoice.mozilla.org/zh-CN)]. 
+- Mozilla datasets [[`https://commonvoice.mozilla.org/zh-CN`](https://commonvoice.mozilla.org/zh-CN)].
+- StarRail datasets [[`https://github.com/AI-Hobbyist/StarRail_Datasets`](https://github.com/AI-Hobbyist/StarRail_Datasets)]. 
 
 ## others
 - https://huggingface.co/datasets/TTS-AGI/vocal-bursts-taxonomy-DACVAE
