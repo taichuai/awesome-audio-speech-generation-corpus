@@ -12,8 +12,9 @@ Each entry distinguishes real-recorded audio, synthetic speech, annotation-only 
 - Genshin_Datasets [[`https://github.com/AI-Hobbyist/Genshin_Datasets`](https://github.com/AI-Hobbyist/Genshin_Datasets)].
 - Mozilla datasets [[`https://commonvoice.mozilla.org/zh-CN`](https://commonvoice.mozilla.org/zh-CN)].
 - StarRail datasets [[`https://github.com/AI-Hobbyist/StarRail_Datasets`](https://github.com/AI-Hobbyist/StarRail_Datasets)].
-- Emilia / Emilia-Large [[`Dataset`](https://huggingface.co/datasets/amphion/Emilia-Dataset)]. Multilingual in-the-wild speech for speech generation. Emilia-Large combines the original 101K-hour Emilia corpus with the 114K-hour Emilia-YODAS corpus. Emilia uses CC BY-NC 4.0, while Emilia-YODAS uses CC BY 4.0.
+
 ### Large-scale Multilingual Speech
+- Emilia / Emilia-Large [[`Dataset`](https://huggingface.co/datasets/amphion/Emilia-Dataset)]. Multilingual in-the-wild speech for speech generation. Emilia-Large combines the original 101K-hour Emilia corpus with the 114K-hour Emilia-YODAS corpus. Emilia uses CC BY-NC 4.0, while Emilia-YODAS uses CC BY 4.0.
 
 - YODAS v3 [[`Dataset`](https://huggingface.co/datasets/espnet/yodas3)]. Over 1.1 million hours of web-crawled audio across 100+ languages, with transcripts, timestamps, and translations where available. Approximately 75% of the audio has transcripts; further filtering and segmentation are needed for TTS.
 - LEMAS [[`Dataset`](https://huggingface.co/datasets/LEMAS-Project/LEMAS-Dataset-train)] [[`Paper`](https://arxiv.org/abs/2601.04233)]. A 150K+ hour multilingual speech corpus covering 10 languages, with word-level alignments, supporting multilingual TTS and speech editing research.
